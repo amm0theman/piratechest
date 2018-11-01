@@ -1,0 +1,11 @@
+/home/ammon/Documents/VSprojs/seesharp/bin/Debug/netcoreapp2.1/seesharp.deps.json
+/home/ammon/Documents/VSprojs/seesharp/bin/Debug/netcoreapp2.1/seesharp.runtimeconfig.json
+/home/ammon/Documents/VSprojs/seesharp/bin/Debug/netcoreapp2.1/seesharp.runtimeconfig.dev.json
+/home/ammon/Documents/VSprojs/seesharp/bin/Debug/netcoreapp2.1/seesharp.dll
+/home/ammon/Documents/VSprojs/seesharp/bin/Debug/netcoreapp2.1/seesharp.pdb
+/home/ammon/Documents/VSprojs/seesharp/obj/Debug/netcoreapp2.1/seesharp.csprojAssemblyReference.cache
+/home/ammon/Documents/VSprojs/seesharp/obj/Debug/netcoreapp2.1/seesharp.csproj.CoreCompileInputs.cache
+/home/ammon/Documents/VSprojs/seesharp/obj/Debug/netcoreapp2.1/seesharp.AssemblyInfoInputs.cache
+/home/ammon/Documents/VSprojs/seesharp/obj/Debug/netcoreapp2.1/seesharp.AssemblyInfo.cs
+/home/ammon/Documents/VSprojs/seesharp/obj/Debug/netcoreapp2.1/seesharp.dll
+/home/ammon/Documents/VSprojs/seesharp/obj/Debug/netcoreapp2.1/seesharp.pdb
