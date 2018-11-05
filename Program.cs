@@ -6,7 +6,9 @@ namespace seesharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pond testPond1 = new Pond("/testdata/test1");
+            Pond testPond2 = new Pond("/testdata/test2");
+            Pond testPond3 = new Pond("/testdata/test3");
         }
     }
 }
